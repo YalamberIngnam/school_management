@@ -1,0 +1,2 @@
+http://form.guide/php-form/php-form-validation-tutorial.html
+string_length in review description=https://www.php.net/manual/en/function.strlen.php
